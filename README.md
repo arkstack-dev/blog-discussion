@@ -15,4 +15,4 @@ This repository serves as the backend for the comments section on our blog artic
 * **Be Constructive:** We encourage healthy debate and sharing different perspectives on architecture and coding practices.
 * **Share Your Experience:** Did you solve a similar problem differently? Drop your insights and code snippets!
 
-*(Looking for the hardcore JVM/Exeris Kernel development community? Head over to the [Exeris Discussions](https://github.com/exeris/exeris-discussion) repository).*
+*(Looking for the hardcore JVM/Exeris Kernel development community? Head over to the [Exeris Discussions](https://github.com/exeris-systems/exeris-discussion) repository).*
